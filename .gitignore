@@ -1,0 +1,8 @@
+.build
+.vscode
+coverage
+node_modules
+dist
+*.log
+.env
+.serverless
